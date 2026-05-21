@@ -1,1 +1,2 @@
 # GE IT-SKILLS Portfolio
+Hello there! I am Mary Ella Lou Llanes. I am committed to providing reliable, accurate, and professional financial services built on integrity and trust. Through my profession, I aim to help small and large businesses and young and old individuals achieve financial stability and growth while fostering meaningful relationships with every client. I believe that true success goes beyond numbers; it is built on dedication, excellence, and genuine service to others. 
