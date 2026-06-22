@@ -1,0 +1,49 @@
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
+
+Role Context:
+Data Analyst, Regional Development Council – Mindanao Environmental Monitoring Initiative
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The uploaded CSV dataset contained annual municipal waste generation records from selected Mindanao cities between 2020 and 2025.
+- **AI Cleaning Instruction:** "Analyze the uploaded CSV file. Detect duplicate records, standardize city names, remove formatting corruption, convert all waste measurements to Metric Tons, and impute missing values using median substitution. Generate a cleaned dataset suitable for trend analysis."
+- **Result:** 180 raw observations processed. 12 duplicate rows removed. 24 missing values repaired. 100% metric standardization achieved. Final cleaned dataset: 168 validated observations
+
+#### 2. Visualizations Generated
+Chart 1: Annual Municipal Waste Generation (2020–2025)
+
+Visualization Type: High-Contrast Line Chart
+
+Year	Waste Generated (MT)
+2020	520,000
+2021	548,000
+2022	573,000
+2023	601,000
+2024	638,000
+2025	674,000
+
+Chart Description
+
+The line chart displays a steady upward trend in municipal waste generation across major Mindanao urban centers from 2020 to 2025, indicating increasing consumption levels and urban population growth.
+
+Chart 2: Waste Diversion and Recycling Rate Comparison
+
+Visualization Type: High-Contrast Bar Chart
+
+Year	Waste Diverted Through Recycling (%)
+2020	18
+2021	20
+2022	22
+2023	25
+2024	27
+2025	29
+
+Chart Description
+
+The bar chart compares annual recycling and diversion rates, revealing gradual improvements in waste recovery programs despite increasing overall waste production.
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+The upward trend in municipal waste generation from 2020 to 2025 reflects the rapid urbanization occurring across major Mindanao cities. As economic activity and population density increase, local governments face growing pressure to manage larger volumes of household and commercial waste. Although recycling and waste-diversion rates show gradual improvement, the pace of recovery remains slower than the growth of total waste produced.
+
+This trend is linked to a significant socio-environmental reality in Mindanao: increasing urban waste contributes to clogged drainage systems, flooding during heavy rainfall, and pressure on already limited landfill facilities. The data suggest that while current waste-management programs are producing positive results, stronger investments in waste segregation, recycling infrastructure, and community-based environmental programs are necessary to support sustainable urban development in the region.
