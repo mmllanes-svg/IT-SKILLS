@@ -2,40 +2,10 @@
 
 🎓 Accountancy student aspiring to become a CPA with an interest in technology, business, and entrepreneurship. I enjoy building projects that combine finance and innovation to solve everyday problems.
 
-## 🌱 Currently Learning
-Git & GitHub
+[Tagline.pdf](https://github.com/user-attachments/files/29331996/Tagline.pdf)
+This is my profile with my tagline. I chose this color palette for a fresh and professional autumn vibe I aspire to project. 
 
-Mobile App Development
-
-UI/UX Design
-
-Business Analytics
-
-## 💼 Skills
-Financial Analysis
-
-Problem Solving
-
-Critical Thinking
-
-Project Planning
-
-Microsoft Excel
-
-Team Collaboration
-
-## 🚀 Interests
-Accounting & Finance
-
-Entrepreneurship
-
-Mobile App Development
-
-Sustainability
-
-Business Innovation
-
-## 📌 Current Project
-**INVENTORIÉ** – A smart grocery inventory app that helps users manage pantry items, track expiration dates, scan receipts, and reduce food waste.
+<img width="1080" height="1080" alt="post" src="https://github.com/user-attachments/assets/ab72c57d-1c9f-4214-9a9a-47faa767ab72" />
+This is the poster created for a business I am opening after becoming a CPA. I chose this template for easy understanding for my future customers as it is informative and at the same time eye-catching.
 
  "Always learning, always building."
