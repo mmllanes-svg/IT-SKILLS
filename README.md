@@ -1,2 +1,29 @@
-# GE IT-SKILLS Portfolio
-Hello there! I am Mary Ella Lou Llanes. I am committed to providing reliable, accurate, and professional financial services built on integrity and trust. Through my profession, I aim to help small and large businesses and young and old individuals achieve financial stability and growth while fostering meaningful relationships with every client. I believe that true success goes beyond numbers; it is built on dedication, excellence, and genuine service to others. 
+# Hi, I'm Ella 👋
+
+🎓 Accountancy student aspiring to become a CPA with an interest in technology, business, and entrepreneurship. I enjoy building projects that combine finance and innovation to solve everyday problems.
+
+## 🌱 Currently Learning
+Git & GitHub
+Mobile App Development
+UI/UX Design
+Business Analytics
+
+## 💼 Skills
+Financial Analysis
+Problem Solving
+Critical Thinking
+Project Planning
+Microsoft Excel
+Team Collaboration
+
+## 🚀 Interests
+Accounting & Finance
+Entrepreneurship
+Mobile App Development
+Sustainability
+Business Innovation
+
+## 📌 Current Project
+**INVENTORIÉ** – A smart grocery inventory app that helps users manage pantry items, track expiration dates, scan receipts, and reduce food waste.
+
+ "Always learning, always building."
