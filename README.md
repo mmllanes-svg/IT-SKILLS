@@ -4,23 +4,35 @@
 
 ## 🌱 Currently Learning
 Git & GitHub
+
 Mobile App Development
+
 UI/UX Design
+
 Business Analytics
 
 ## 💼 Skills
 Financial Analysis
+
 Problem Solving
+
 Critical Thinking
+
 Project Planning
+
 Microsoft Excel
+
 Team Collaboration
 
 ## 🚀 Interests
 Accounting & Finance
+
 Entrepreneurship
+
 Mobile App Development
+
 Sustainability
+
 Business Innovation
 
 ## 📌 Current Project
